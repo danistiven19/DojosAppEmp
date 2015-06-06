@@ -1,0 +1,37 @@
+body {
+  	margin: 0;
+	padding: 0;
+	background: #E8A188;
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #E54B29;
+}
+h1{
+	text-align: center;
+	margin: 2;
+	font-size: 70px;
+	text-transform: uppercase;
+	font-weight: normal;
+	color: #E54B29;
+}
+h2{
+	text-align: center;
+	margin: 2;
+	font-size: 35px;
+	font-weight: normal;
+	color:#906035;
+}
+html {
+	text-align: center;
+	margin: 2;
+	font-weight: normal;
+	color: #E8A188;
+}
+.img {
+	text-align: center;
+}
+ul{
+	border-bottom:5px #F8E6D9 ;
+	font-size: 30px;	
+	text-align: left;
+	color: #E54B29;
+}
